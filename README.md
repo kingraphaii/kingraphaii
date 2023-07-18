@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kingraphaii&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=kingraphaii&theme=transparent&border_radius=8.3&card_width=612)](https://git.io/streak-stats)
