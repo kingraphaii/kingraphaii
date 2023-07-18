@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingraphaii)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingraphaii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=kingraphaii&theme=transparent&border_radius=8.3&card_width=612)](https://git.io/streak-stats)
